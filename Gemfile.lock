@@ -680,7 +680,7 @@ GEM
       uber (< 0.2.0)
     retriable (3.4.1)
     rexml (3.4.2)
-    rotp (6.3.0)
+    rotp (6.4.0)
     rouge (4.5.2)
     rqrcode (3.1.0)
       chunky_png (~> 1.0)
@@ -983,7 +983,7 @@ DEPENDENCIES
   rchardet
   redcarpet
   redis (~> 5.4)
-  rotp (~> 6.3)
+  rotp (~> 6.4)
   rqrcode (~> 3.0)
   rspec-rails
   rswag-api
